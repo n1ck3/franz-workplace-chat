@@ -1,13 +1,13 @@
 {
-  "name": "workplace",
+  "name": "Workplace Chat",
   "version": "1.0.0",
-  "description": "Franz Workplace Plugin",
+  "description": "Franz Workplace Chat Plugin",
   "main": "index.js",
   "author": "Ricardo Tomasi <ricardobeat@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://{teamID}.facebook.com/chat",
-    "serviceName": "Workplace",
+    "serviceName": "Workplace Chat",
     "popup": [],
     "hasNotificationSound": true,
     "hasTeamID": true,
